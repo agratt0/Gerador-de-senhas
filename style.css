@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+:root{
+    --branco:white;
+    --cor-de-fundo:#9AB17A;
+    --fundo-senha:#C3CC9B;
+    --fundo-texto:#E4DFB5;
+    --borda:#FBE8CE;
+    --nunito: "Nunito Sans", sans-serif;
+
+}
+*{
+    font-weigth:400;
+}
+body
