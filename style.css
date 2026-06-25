@@ -9,6 +9,10 @@
 
 }
 *{
-    font-weigth:400;
+    font-weight:400;
 }
-body
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(var(--nunito));
+}
